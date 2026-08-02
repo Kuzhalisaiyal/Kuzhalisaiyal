@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kuzhalisaiyal</h1>
+<h1 align="center">Hi 👋, I'm Kuzhalisaiyal LS</h1>
 <h3 align="center">MBA Candidate | Operations & Business Analytics | Aspiring PM/PMO</h3>
 
 <p align="center">Turning engineering logic into business strategy, one project at a time.</p>
