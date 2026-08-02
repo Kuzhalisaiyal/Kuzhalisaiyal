@@ -11,6 +11,11 @@
 - 💬 Ask me about Operations strategy, business analytics, or transitioning from engineering to management
 - ⚡ Fun fact: I've survived group projects with the same energy Meredith Grey survives a Code Black
 
+### 📌 Featured Work
+- [Project Atlas](https://github.com/Kuzhalisaiyal/Project-Atlas) — Enterprise Transformation Playbook
+- [Dark Store Agile Launch](https://github.com/Kuzhalisaiyal/dark-store-agile-launch) — Agile/Scrum simulation project
+- [📄 Resume](https://github.com/Kuzhalisaiyal/Kuzhalisaiyal/blob/main/Kuzhalisaiyal_LS_Resume%20jul%2026.pdf.pdf) — View/Download
+
 ### 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kuzhalisaiyal-ls-507388388) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kuzhalisaiyal@gmail.com)
 
